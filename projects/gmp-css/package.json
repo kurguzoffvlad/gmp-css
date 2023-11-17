@@ -1,0 +1,10 @@
+{
+  "name": "gmp-css",
+  "description": "Библиотека для работы с классами стилей.",
+  "author": "kurguzov74@gmail.com",
+  "version": "0.0.1",
+  "peerDependencies": {
+    "@angular/common": "^8.2.14",
+    "@angular/core": "^8.2.14"
+  }
+}
